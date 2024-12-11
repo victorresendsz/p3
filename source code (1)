@@ -1,0 +1,26 @@
+/******************************************************************************
+
+Welcome to GDB Online.
+  GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby, 
+  C#, OCaml, VB, Perl, Swift, Prolog, Javascript, Pascal, COBOL, HTML, CSS, JS
+  Code, Compile, Run and Debug online from anywhere in world.
+
+*******************************************************************************/
+ using System;
+  class program
+  {
+      static void Main()
+      {
+          
+          Consolewrite("o animal e mamifero?(s/n));
+          strong mamifero=
+          Consolewrite("o animal e onivoro?(s/n));
+          strong onivoro=
+          Consolewrite("o animal e herbivoro?s/n));
+          strong herbivoro=
+          
+          if(mamifero=="s"carnivoro==) Consolwriteline("Leão")
+          
+          
+          
+

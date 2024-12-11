@@ -1,0 +1,43 @@
+/******************************************************************************
+
+Welcome to GDB Online.
+  GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby, 
+  C#, OCaml, VB, Perl, Swift, Prolog, Javascript, Pascal, COBOL, HTML, CSS, JS
+  Code, Compile, Run and Debug online from anywhere in world.
+
+*******************************************************************************/
+ using System;
+  class program
+  {
+      static void Main()
+      {
+          
+          double N1=
+          double.Parse(Consolewrite.ReadLine("digite o primeiro numero"));
+          double N2=
+          double.Parse(Consolewrite.ReadLine("digite o segundo numero"));
+          double N3=
+          double.Parse(Consolewrite.ReadLine("digite o terceiro numero"));
+          double N4=
+          double.Parse(Consolewrite.ReadLine("digite o quarto numero"));
+          
+          double.media =(N1*2+N2*3+N3*4+N4*-1)/10;
+          
+          ConsolewriteLine($Media)
+          (media.F1)");
+          (media>=7.0)
+          ConsolewriteLine("aluno aprovado")
+          )
+          else if (media < 5.0)
+          ConsolewriteLine("aluno reprovado")
+          )
+           else
+           (
+               ConsolewriteLine("Aluno em exame")
+               double.notaexame=
+               double.parse(Console.ReadLine()),
+               Console.writeLine($Nota do exame:{notaExame:F!)");).
+               
+          
+          
+
